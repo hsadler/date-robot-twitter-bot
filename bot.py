@@ -44,7 +44,12 @@ messages = [
     'Today is great!',
     'What\'s the news today?',
     'The week\'s going by so fast! Enjoy today!',
-    'Enjoy your time on this earth. Especially today!'
+    'Enjoy your time on this earth. Especially today!',
+    'Make today special!',
+    'Make the most of your day today!',
+    'What will today bring?',
+    'Have a great day!',
+    'What a beautiful day!'
 ]
 
 
